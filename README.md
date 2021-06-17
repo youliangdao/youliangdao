@@ -9,7 +9,6 @@ Web Developer??
 ![image](https://user-images.githubusercontent.com/72332502/122312224-bb32cf00-cf4e-11eb-9e77-93f2e7dc353a.png)
 ![image](https://user-images.githubusercontent.com/72332502/122312394-15cc2b00-cf4f-11eb-869f-46577e8a5edb.png)
 ![image](https://user-images.githubusercontent.com/72332502/122312437-2b415500-cf4f-11eb-8289-03b010e75923.png)
-![image](https://user-images.githubusercontent.com/72332502/122311893-1fa15e80-cf4e-11eb-8037-347c5e153b71.png)
 
 ![](https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat)
 ![image](https://user-images.githubusercontent.com/72332502/122312596-78252b80-cf4f-11eb-8ed6-d4e1c1922ec3.png)

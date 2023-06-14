@@ -1,6 +1,4 @@
 ## My Profile👋
-- 🌍 I'm based in Japan, Tokyo
-- ✉️ You can contact me at youliangdaojing5@gmail.com
 
 
 [![](https://raw.githubusercontent.com/youliangdao/youliangdao/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

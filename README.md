@@ -1,22 +1,69 @@
-## My Profile👋
+## 👋 Hi there!
+Welcome to my page!
+I'm Yusuke Inai, Frontend developer from Tokyo, Japan.
+<p align="left">
+  <a href="https://github.com/youliangdao/youliangdao/">
+    <img src="https://komarev.com/ghpvc/?username=youliangdao" alt="youliangdao" />
+  </a>
+  <a href="http://twitter.com/yusuke_blog1026">
+    <img height="20" src="https://img.shields.io/twitter/follow/yusuke_blog1026?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/youliangdao">
+    <img height="20" src="https://img.shields.io/github/followers/youliangdao?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+<p align="left">
+  <!-- Like のバッジ -->
+  <a href="https://zenn.dev/youliangdao">
+    <img src="https://zenn.badge.nikaera.com/s/youliangdao/likes" alt="youliangdao likes" />
+  </a>
 
+  <!-- Articles のバッジ -->
+  <a href="https://zenn.dev/youliangdao/articles">
+    <img src="https://zenn.badge.nikaera.com/s/youliangdao/articles" alt="youliangdao articles" />
+  </a>
 
-[![](https://raw.githubusercontent.com/youliangdao/youliangdao/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/youliangdao/youliangdao/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/youliangdao/youliangdao/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/youliangdao/youliangdao/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/youliangdao/youliangdao/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  <!-- Followers のバッジ -->
+  <a href="https://zenn.dev/youliangdao/followers">
+    <img src="https://zenn.badge.nikaera.com/s/youliangdao/followers" alt="youliangdao followers" />
+  </a>
+</p>
+<p align="left">
+  <a href="http://qiita.com/yusuke_blog1026">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yusuke_blog1026/contributions.svg" />
+  </a>  
+  <a href="http://qiita.com/yusuke_blog1026">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yusuke_blog1026/posts.svg" />
+  </a>
+  <a href="http://qiita.com/yusuke_blog1026">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yusuke_blog1026/followers.svg" />
+  </a>
+</p>
 
-<br>
+<p align="left"> 
+  <a href="https://bento.me/youliangdao">
+    <img alt="homepage" width="30px" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" />
+  </a>
+  <a href="https://twitter.com/yusuke_blog1026">
+    <img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg" />
+  </a>
+  <a href="https://qiita.com/yusuke_blog1026">
+    <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
+  </a>
+  <a href="https://zenn.dev/youliangdao" target="blank">
+    <img src="https://simpleicons.org/icons/zenn.svg" alt="zenn" height="30" width="30" />
+  </a>
+</p>
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind,jquery,react,redux,nextjs&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,c,docker,aws,firebase)](https://skillicons.dev)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youliangdao&layout=compact&count_private=true&show_icons=true&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=youliangdao&count_private=true&show_icons=true&show_icons=true" />
+</p>
 
-<br>
+[![](https://raw.githubusercontent.com/youliangdao/youliangdao/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/youliangdao/youliangdao/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/youliangdao/youliangdao/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## Others
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/yusuke_blog1026/contributions.svg)](http://qiita.com/yusuke_blog1026)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/yusuke_blog1026/posts.svg)](http://qiita.com/yusuke_blog1026)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/yusuke_blog1026/followers.svg)](http://qiita.com/yusuke_blog1026)
-![](https://komarev.com/ghpvc/?username=youliangdao&color=green)
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 

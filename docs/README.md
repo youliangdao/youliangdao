@@ -15,6 +15,17 @@
 
 ---
 
+## 各種アカウント
+
+<p>
+<a href="https://github.com/youliangdao" target="_blank"><img alt="Github" src="https://img.shields.io/badge/youliangdao-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/yusuke_blog1026" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@yusuke_blog1026-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://qiita.com/yusuke_blog1026" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/yusuke_blog1026-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+<a href="https://zenn.dev/youliangdao" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/youliangdao-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+<a href="https://speakerdeck.com/youliangdao" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/youliangdao-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
+</p>
+---
+
 ## 保有スキル・資格
 
 - Next.js を用いたフロントエンド開発・設計
@@ -113,8 +124,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/youliangdao/techfinder"><b>Techfinder</b></a></td>
-      <td><img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" /> <img alt="React" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
-      <img alt="Rails" src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat" />
+      <td><img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" /> <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
       </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/youliangdao/techfinder?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/youliangdao/techfinder?style=flat-square&labelColor=343b41"/></td>
@@ -122,7 +132,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/youliangdao/self-motivate-image-generator"><b>Seminar Post Generator</b></a></td>
-      <td><img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" /> <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></td>
+      <td><img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" /> <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/youliangdao/self-motivate-image-generator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/youliangdao/self-motivate-image-generator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/youliangdao/self-motivate-image-generator?style=flat-square&labelColor=343b41"/></td>
@@ -139,10 +149,10 @@
 
 - **Zenn**
   - 現在 13 記事、1,416LIKE
-  - https://zenn.dev/youliangdao
+  - [https://zenn.dev/youliangdao](https://zenn.dev/youliangdao)
 - **Qiita**
   - 現在 20 記事、3,193Contributions
-  - https://qiita.com/yusuke_blog1026
+  - [https://qiita.com/yusuke_blog1026](https://qiita.com/yusuke_blog1026)
 
 ### 勉強会での登壇
 

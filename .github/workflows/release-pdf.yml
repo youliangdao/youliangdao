@@ -2,7 +2,7 @@ name: Release PDF
 
 on:
   pull_request:
-    branches: [main]
+    branches: [master]
     paths: ["docs/README.md"]
   workflow_dispatch:
 
@@ -20,8 +20,8 @@ jobs:
         with:
           node-version: 18
           cache: npm
-      - run: npm install
-      - run: npm run build:pdf
+      - run: yarn install
+      - run: yarn build:pdf
       - name: Create a draft release
         uses: softprops/action-gh-release@v1
         with:

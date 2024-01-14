@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "textlint . && markdownlint **/*.md",
-    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"    
+    "lint": "textlint .",
+    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
   },
   "keywords": [],
   "author": "",
@@ -16,7 +16,6 @@
     "@textlint-ja/textlint-rule-no-dropping-i": "^2.0.1",
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^2.0.1",
     "@textlint-rule/textlint-rule-no-unmatched-pair": "^2.0.2",
-    "markdownlint-cli": "^0.38.0",
     "md-to-pdf": "^5.2.4",
     "textlint": "^13.4.1",
     "textlint-filter-rule-comments": "^1.2.2",

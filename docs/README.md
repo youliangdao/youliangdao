@@ -55,6 +55,8 @@
 - Ruby on Rails
 - Vite
 - Docker
+- AWS
+- Terraform
 - Cloudflare
 
 ## 職務経歴書詳細
@@ -67,7 +69,7 @@
 
 得意としているフロントエンド開発の知見を活かして、フロントエンド基盤の改善や既存機能の改修をリード。開発初期は人の入れ替わりが激しく負債化しているコードが多数存在していたため、コンポーネント設計の指針を定めて、誰でも統一されたコードを書けるようにしました。さらに並行してテスト文化も根付いていなかったため、組織内で議論を重ね自らが旗振り役になり、Storybook などを導入してテストを積極的に書くよう工夫しました。
 
-また組織文化作りとしてドキュメント力を活かし、テックブログ運営も行っておりました。私が配属されるまではテックブログを書く文化がありませんでしたが、アイデア出しや記事のテンプレートを用意することで、アドベントカレンダーを実施できるまでに至りました。
+また組織文化という面においては持ち前のドキュメント力を活かし、テックブログ運営も行っておりました。私が配属されるまではテックブログを書く文化がありませんでしたが、アイデア出しや記事のテンプレートをドキュメントとして書き起こすことで、アドベントカレンダーを実施できるまでに至りました。
 
 - プロジェクト規模：
   - 平均 5 人程度のチームでのスクラム開発
@@ -123,7 +125,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/youliangdao/techfinder"><b>Techfinder</b></a></td>
+      <td><a href="https://github.com/youliangdao/techfinder"><b>Techfinder（現在アクセス停止中です...）</b></a></td>
       <td><img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" /> <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
       </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/youliangdao/techfinder?style=flat-square&labelColor=343b41"/></td>
@@ -174,5 +176,5 @@
   - 例えば、テスト戦略の構築や保守性の高いコンポーネントや hooks の設計、CI / CD の最適化など
 - フロントエンドだけではなくバックエンド・インフラなどの新しい分野・技術への興味関心が強く、学習しながらアウトプットをすることが得意です
 - ドキュメント作成・整備も得意で、ADR やイミュータブルドキュメントモデリングを用いて最小限の運用負荷でドキュメント管理を行えるよう仕組みをつくることも可能です
-- 組織文化の形成にも興味関心が強く、勉強会の企画やテックブログの運営などを積極的に行い、開発チームに良い影響を与えていきたいと思っています
+- 組織文化という面では、勉強会の企画やテックブログの運営などを積極的に行い、開発チームに良い影響を与えていきたいと思っています
 - React・Next.js (App Router)・Remix・TypeScript・GraphQL などの技術に興味があります

@@ -65,9 +65,9 @@ I'm Yusuke Inai, Frontend developer from Tokyo, Japan.
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [テーブルの行リンクは意外と面倒くさい](https://zenn.dev/counterworks/articles/table-row-next-link)
 - [TanStack Query を v5 へ移行したので苦労した点についてまとめる](https://zenn.dev/counterworks/articles/react-query-update-v4-to-v5)
 - [debounce 処理を利用してリアルタイム検索機能を改善してみた](https://zenn.dev/counterworks/articles/debounce-real-time-search)
 - [COUNTERWORKS開発チームで初めてのアドベントカレンダーをやってみました](https://zenn.dev/counterworks/articles/advent-calendar-end)
-- [人よりちょっとだけアウトプットができるようになるためのコツ](https://zenn.dev/counterworks/articles/articles-output)
 <!-- BLOG-POST-LIST:END -->
 

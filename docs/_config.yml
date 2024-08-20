@@ -1,5 +1,5 @@
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have onedd this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one line to the plugins list if you already have onedd this line to the plugins list if you already have one
 title: 稲井友亮の職務経歴書
 description: 稲井友亮の職務経歴書

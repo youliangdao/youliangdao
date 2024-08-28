@@ -65,9 +65,9 @@ I'm Yusuke Inai, Frontend developer from Tokyo, Japan.
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [React において props がイミュータブルである理由について改めて考えてみる](https://zenn.dev/youliangdao/articles/react-modify-props)
 - [実装例から見る Tanstack Table の使い方](https://zenn.dev/counterworks/articles/tanstack-table-design-pattern)
 - [イベントハンドラの命名規則を作る上で考えたこと](https://zenn.dev/counterworks/articles/event-handler-basic-rule)
 - [テーブルの行リンクは意外と面倒くさい](https://zenn.dev/counterworks/articles/table-row-next-link)
-- [TanStack Query を v5 へ移行したので苦労した点についてまとめる](https://zenn.dev/counterworks/articles/react-query-update-v4-to-v5)
 <!-- BLOG-POST-LIST:END -->
 
